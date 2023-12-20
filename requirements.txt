@@ -1,0 +1,12 @@
+streamlit
+streamlit_chat
+gdown
+llama_index 
+sentence-transformers 
+pypdf 
+langchain 
+python-decouple
+PyPDF2
+typing-extensions
+chromadb
+openapi
